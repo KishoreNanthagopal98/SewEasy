@@ -1,4 +1,4 @@
-# tailor-app
+# Tailor Maintance app
 
 This app allows the user to record the measurement of customers and store it in a cloud database.
 
